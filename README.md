@@ -7,3 +7,8 @@ Aprenda a ter o hábito em ter commits atômicos
 1 - Criando o primeiro repositório:
 - COMITAR: Ctrl + enter
 - PUSH: Ctrl + P
+
+Esse Repositório pode ser publico ou privado !!
+
+2 - Clonando um repositório
+

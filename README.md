@@ -9,6 +9,6 @@ Aprenda a ter o hábito em ter commits atômicos
 - PUSH: Ctrl + P
 
 Esse Repositório pode ser publico ou privado !!
-
+Teste de readme 
 2 - Clonando um repositório
 

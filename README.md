@@ -14,5 +14,5 @@ Teste de readme
 
 3 - Versionando seus projetos antigos:
 
-Na aula do dia 22/07 aprendemos subir nossos projetos antigos computador
+Na aula do dia 22/07 aprendemos subir nossos projetos antigos computador, aprendemos como pegar repositórios do github e subir no  nosso repositório local
 

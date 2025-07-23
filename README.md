@@ -12,3 +12,7 @@ Esse Repositório pode ser publico ou privado !!
 Teste de readme 
 2 - Clonando um repositório
 
+3 - Versionando seus projetos antigos:
+
+Na aula do dia 22/07 aprendemos subir nossos projetos antigos computador
+

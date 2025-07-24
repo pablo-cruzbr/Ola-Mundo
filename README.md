@@ -13,11 +13,16 @@ Aprenda a ter o hábito em ter commits atômicos
 Esse Repositório pode ser publico ou privado !!
 Teste de readme
 
+--
+
 ### 2 - Clonando um repositório
+
+-- 
 
 ### 3 - Versionando seus projetos antigos: 22/07
 
 Na aula do dia 22/07 aprendemos subir nossos projetos antigos computador, aprendemos como pegar repositórios do github e subir no  nosso repositório local e também aprendemos um ponco sobre o que é Issues
+--
 
 ### 4 - Você sabe Usar Issues ? 24/07
 Github é uma poderosa ferramenta de Rede social para programadores.
@@ -28,6 +33,7 @@ Issue: é um problema que o pessoal encontrou e não sabe resolver.
 Dica: Quando estiver um problema, vá no repositório e procura por issues que já existem esse problema. Com certeza a microsoft já teve alguém com o mesmo problema que você.
 
 PullRequest: Indentifiquei o problema, analisei o codigo, aprendi como resolver, mexi no codigo e dei uma solução.
+--
 
 ### 5 - Linguagem Markdown 24/07
 
@@ -38,7 +44,7 @@ Podemos Utilizar Markdown é em:
 #Issues
 #Readme.md
 
----
+--
 
 ### Negrito
 

@@ -1,70 +1,91 @@
-# Olá, Mundo
-Primeiro repositório do curso de github, Atualizado !!!
-Editando o codigo direto no Github
+# Olá, Mundo!
 
-Aprenda a ter o hábito em ter commits atômicos
+Este é o **primeiro repositório** do curso de GitHub — *Atualizado!*  
+Editando o código diretamente pelo GitHub.
 
-### 1 - Criando o primeiro repositório: 21/07
-- COMITAR: Ctrl + enter
-- PUSH: Ctrl + P
+> Aprenda a ter o hábito de fazer **commits atômicos**.
 
-- Atualizei meu perfil do Github
+---
 
-Esse Repositório pode ser publico ou privado !!
-Teste de readme
+### 1 - Criando o Primeiro Repositório (21/07)
 
---
+- **Comitar:** `Ctrl + Enter`  
+- **Push:** `Ctrl + P`
+- Atualizei meu perfil do GitHub.
 
-### 2 - Clonando um repositório
+> Este repositório pode ser **público** ou **privado**.
 
--- 
+---
 
-### 3 - Versionando seus projetos antigos: 22/07
+### 2 - Clonando um Repositório
 
-Na aula do dia 22/07 aprendemos subir nossos projetos antigos computador, aprendemos como pegar repositórios do github e subir no  nosso repositório local e também aprendemos um ponco sobre o que é Issues
---
+Instruções e dicas para clonar um repositório do GitHub usando o `git clone`.
 
-### 4 - Você sabe Usar Issues ? 24/07
-Github é uma poderosa ferramenta de Rede social para programadores.
-É um problema, levantamento de alguma coisa.
+---
 
-Issue: Descobri um problema e não faço ideia de como resolver esse problema e preciso de ajuda.
-Issue: é um problema que o pessoal encontrou e não sabe resolver.
-Dica: Quando estiver um problema, vá no repositório e procura por issues que já existem esse problema. Com certeza a microsoft já teve alguém com o mesmo problema que você.
+### 3 - Versionando Projetos Antigos (22/07)
 
-PullRequest: Indentifiquei o problema, analisei o codigo, aprendi como resolver, mexi no codigo e dei uma solução.
---
+Na aula do dia 22/07, aprendemos a:
 
-### 5 - Linguagem Markdown 24/07
+- Subir projetos antigos do computador para o GitHub;
+- Clonar repositórios do GitHub para o repositório local;
+- Entender o que são **Issues**.
 
-Readme.md: É uma linguagem de marcação mais legivel
-Podemos Utilizar Markdown é em:
+---
 
-#Pull Requests
-#Issues
-#Readme.md
+### 4 - Você Sabe Usar Issues? (24/07)
 
---
+O **GitHub** é uma poderosa rede social para programadores.  
+Issues são usadas para levantar problemas ou pontos de melhoria.
 
-### Negrito
+**Exemplos de uso:**
 
-hastags # criam titulos de nivel 1,2,3 
-sinais de - menos criam uma linha
+- **Issue:** Descobri um problema e preciso de ajuda para resolvê-lo.
+- **Dica:** Quando enfrentar um problema, procure por *issues* existentes.  
+  Grandes projetos (como os da Microsoft) provavelmente já passaram pelo mesmo problema.
 
-Lista Numerada
-1. criam listas e a numeração em ordem
+**Pull Request:**  
+Identifiquei o problema → Analisei o código → Criei uma solução → Submeti um PR.
 
-Lista de Tarefas:
+---
 
-- [] Criar a pagina principal
+### 5 - Linguagem Markdown (24/07)
 
-- [] Sem check
+O `README.md` usa **Markdown**, uma linguagem de marcação legível e leve.
 
+Podemos usar Markdown em:
+
+- `Pull Requests`
+- `Issues`
+- `README.md`
+
+---
+
+### Dicas de Markdown
+
+#### Títulos
+
+- `#` Título nível 1  
+- `##` Título nível 2  
+- `###` Título nível 3  
+- `---` ou `***` criam uma linha horizontal
+
+#### Listas
+
+##### Numerada:
+1. Item 1  
+2. Item 2  
+3. Item 3
+
+##### Não ordenada:
+- Item A  
+- Item B
+
+##### Lista de Tarefas:
+- [ ] Criar a página principal  
+- [ ] Sem check  
 - [x] Com check
 
+---
 
-
-
-
-
-
+📘 *Esse repositório será atualizado com novos aprendizados ao longo do curso.*

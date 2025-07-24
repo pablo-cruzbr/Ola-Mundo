@@ -19,6 +19,14 @@ Teste de readme
 Na aula do dia 22/07 aprendemos subir nossos projetos antigos computador, aprendemos como pegar repositórios do github e subir no  nosso repositório local e também aprendemos um ponco sobre o que é Issues
 
 4 - Você sabe Usar Issues ?
+Github é uma poderosa ferramenta de Rede social para programadores.
+É um problema, levantamento de alguma coisa.
+
+Issue: Descobri um problema e não faço ideia de como resolver esse problema e preciso de ajuda,
+
+PullRequest: Indentifiquei o problema, analisei o codigo, aprendi como resolver, mexi no codigo e dei uma solução.
+
+
 
 
 

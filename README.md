@@ -22,7 +22,8 @@ Na aula do dia 22/07 aprendemos subir nossos projetos antigos computador, aprend
 Github é uma poderosa ferramenta de Rede social para programadores.
 É um problema, levantamento de alguma coisa.
 
-Issue: Descobri um problema e não faço ideia de como resolver esse problema e preciso de ajuda,
+Issue: Descobri um problema e não faço ideia de como resolver esse problema e preciso de ajuda.
+Issue: é um problema que o pessoal encontrou e não sabe resolver.
 
 PullRequest: Indentifiquei o problema, analisei o codigo, aprendi como resolver, mexi no codigo e dei uma solução.
 

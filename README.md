@@ -88,4 +88,4 @@ Podemos usar Markdown em:
 
 ---
 
-📘 *Esse repositório será atualizado com novos aprendizados ao longo do curso.*
+*Esse repositório será atualizado com novos aprendizados ao longo do curso.*

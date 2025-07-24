@@ -24,6 +24,7 @@ Github é uma poderosa ferramenta de Rede social para programadores.
 
 Issue: Descobri um problema e não faço ideia de como resolver esse problema e preciso de ajuda.
 Issue: é um problema que o pessoal encontrou e não sabe resolver.
+Dica: Quando estiver um problema, vá no repositório e procura por issues que já existem esse problema. Com certeza a microsoft já teve alguém com o mesmo problema que você.
 
 PullRequest: Indentifiquei o problema, analisei o codigo, aprendi como resolver, mexi no codigo e dei uma solução.
 

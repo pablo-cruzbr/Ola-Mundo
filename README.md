@@ -28,6 +28,27 @@ Dica: Quando estiver um problema, vá no repositório e procura por issues que j
 
 PullRequest: Indentifiquei o problema, analisei o codigo, aprendi como resolver, mexi no codigo e dei uma solução.
 
+5 - Linguagem Markdown 24/07
+
+Readme.md: É uma linguagem de marcação mais legivel
+# Negrito
+
+hastags # criam titulos de nivel 1,2,3 
+sinais de - menos criam uma linha
+
+Lista Numerada
+1. criam listas e a numeração em ordem
+
+Lista de Tarefas:
+
+- [] Criar a pagina principal
+- [] Sem check
+- [x] Com check
+Podemos Utilizar Markdown é em:
+#Pull Requests
+#Issues
+#Readme.md
+
 
 
 

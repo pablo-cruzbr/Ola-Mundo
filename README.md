@@ -101,6 +101,20 @@ Perfil, Segurança
 
 ## Google Authenticated 
 
+### 7 - Branches de forma fácil e com Exemplo
+
+Branch significa ramo, como se fosse ramos de arvores.
+
+- Master - Ramo principal 
+- Branch - Conjunto de ramos
+- Origin - Tirar do repositóro Local para repositório Remoto
+- Cada Commit é uma versão nova no software
+
+
+Dica: Evite commitar tudo na Branch master
+
+
+
 ---
 
 *Esse repositório será atualizado com novos aprendizados ao longo do curso.*

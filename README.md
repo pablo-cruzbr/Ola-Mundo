@@ -86,6 +86,17 @@ Podemos usar Markdown em:
 - [ ] Sem check  
 - [x] Com check
 
+### 5 - Seu Github mais Seguro (26/07)
+
+## Dicas para Senhas fortes
+- Pelo menos 8 caracteres 
+- Letras e números 
+- Símbolos
+- Evitar nomes e palavras comuns 
+- Evitar padrões
+- Nunca compartilhe sua senha
+
+## Authenticação de dois Fatores
 ---
 
 *Esse repositório será atualizado com novos aprendizados ao longo do curso.*

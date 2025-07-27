@@ -113,8 +113,9 @@ Branch significa ramo, como se fosse ramos de arvores.
 
 Dica: Evite commitar tudo na Branch master
 
-
-
+Merge - Mesclar: 
+Branch, Merge into current branch
+Mesclar na ramificação atual
 ---
 
 *Esse repositório será atualizado com novos aprendizados ao longo do curso.*

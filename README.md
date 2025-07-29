@@ -116,9 +116,16 @@ Dica: Evite commitar tudo na Branch master
 Merge - Mesclar: 
 Branch, Merge into current branch
 Mesclar na ramificação atual
+
+Pull Request é como se fosse uma solicitação formal de aprovação a uma alteração no projeto:
+Como funciona: 
+- Cria uma branch 
+- Faz alterações
+- No GitHub, cria um Pull Request de feature/login para main.
+- Alguém da equipe revisa.
+- Se aprovado, as alterações são integradas ao projeto. 
 ---
 
-*Esse repositório será atualizado com novos aprendizados ao longo do curso.*
 
 
 ### 8 - Github Pages
@@ -128,5 +135,11 @@ Com Nodejs não executa código de servidor.
 Funciona com Sites estáticos 
 Não funciona com Rotas de API pois precisa de um servidor pra rodar
 
+
+
 ### Alternativas para projetos com backend Node, Next SSR, etc
 Vercel  Ideal para projetos com Next.js com ou sem SSR.
+
+
+
+*Esse repositório será atualizado com novos aprendizados ao longo do curso.*

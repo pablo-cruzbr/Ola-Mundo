@@ -113,7 +113,7 @@ Branch significa ramo, como se fosse ramos de arvores.
 
 Dica: Evite commitar tudo na Branch master
 
-Merge - Mesclar: 
+Merge - Mesclar: juntar duas branches em um projeto git
 Branch, Merge into current branch
 Mesclar na ramificação atual
 
@@ -124,9 +124,8 @@ Como funciona:
 - No GitHub, cria um Pull Request de feature/login para main.
 - Alguém da equipe revisa.
 - Se aprovado, as alterações são integradas ao projeto. 
+
 ---
-
-
 
 ### 8 - Github Pages
 Selecione o Repositório, Settings e Pages

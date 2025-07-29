@@ -1,4 +1,4 @@
-# Olá, Mundo!
+# Curso em Video!
 
 Este é o **primeiro repositório** do curso de GitHub — *Atualizado!*  
 Editando o código diretamente pelo GitHub.

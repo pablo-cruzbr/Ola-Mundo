@@ -115,7 +115,7 @@ Branch significa ramo, como se fosse ramos de arvores.
 
 Dica: Evite commitar tudo na Branch master
 
-![Branches] (./assets/branches.png)
+![Branches](./assets/branches.png)
 
 Merge - Mesclar: juntar duas branches em um projeto git
 Branch, Merge into current branch

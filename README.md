@@ -126,3 +126,7 @@ Selecione o Repositório, Settings e Pages
 
 Com Nodejs não executa código de servidor.
 Funciona com Sites estáticos 
+Não funciona com Rotas de API pois precisa de um servidor pra rodar
+
+### Alternativas para projetos com backend Node, Next SSR, etc
+Vercel  Ideal para projetos com Next.js com ou sem SSR.

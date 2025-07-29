@@ -121,3 +121,8 @@ Mesclar na ramificação atual
 *Esse repositório será atualizado com novos aprendizados ao longo do curso.*
 
 
+### 8 - Github Pages
+Selecione o Repositório, Settings e Pages
+
+Com Nodejs não executa código de servidor.
+Funciona com Sites estáticos 
